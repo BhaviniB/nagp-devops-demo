@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
+  "FilePath": "d:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,38 +14402,38 @@
   "RootNamespace": "WebApplication4",
   "Documents": [
     {
-      "FilePath": "d:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\_ViewStart.cshtml",
+      "FilePath": "d:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\_ViewImports.cshtml",
+      "FilePath": "d:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Error.cshtml",
+      "FilePath": "d:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
