@@ -34,4 +34,4 @@ ports:
   protocol: TCP
   nodePort: 30158
   port: 80
-  targetPort: 80
+  targetPort: 80 
