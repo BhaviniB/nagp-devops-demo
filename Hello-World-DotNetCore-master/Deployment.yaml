@@ -31,7 +31,7 @@ spec:
  selector:
   app: dotnet-app
  ports:
-  protocol: TCP
-  nodePort: 30158
-  port: 80
-  targetPort: 80 
+ - protocol: TCP
+   nodePort: 30158
+   port: 80
+   targetPort: 80 
