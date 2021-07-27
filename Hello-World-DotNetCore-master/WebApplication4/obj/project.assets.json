@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
+      "projectUniqueName": "D:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
       "projectName": "WebApplication4",
-      "projectPath": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
+      "projectPath": "D:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\bhavinibatra\\.nuget\\packages\\",
-      "outputPath": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\obj\\",
+      "outputPath": "D:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -147,7 +147,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

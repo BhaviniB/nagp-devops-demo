@@ -5750,11 +5750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\TestProject2\\TestProject2.csproj",
+      "projectUniqueName": "D:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\TestProject2\\TestProject2.csproj",
       "projectName": "TestProject2",
-      "projectPath": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\TestProject2\\TestProject2.csproj",
+      "projectPath": "D:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\TestProject2\\TestProject2.csproj",
       "packagesPath": "C:\\Users\\bhavinibatra\\.nuget\\packages\\",
-      "outputPath": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\TestProject2\\obj\\",
+      "outputPath": "D:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\TestProject2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5774,8 +5774,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj": {
-              "projectPath": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj"
+            "D:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj": {
+              "projectPath": "D:\\NAGP\\DevOps Kuber\\nagp-devops-demo\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj"
             }
           }
         }
@@ -5822,7 +5822,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

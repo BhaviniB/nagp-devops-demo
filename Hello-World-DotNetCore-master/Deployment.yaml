@@ -2,20 +2,18 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
    name: dotnet-app-deployment
-   labels: 
-     app: dotnet-app
 spec:
    replicas: 3
    selector:
      matchLabels:
-      app: dotnet-app
+      app: dotnet-app-pod
    template:
     metadata:
      labels:
-      app: dotnet-app
+      app: dotnet-app-pod
     spec:
      containers:
-      name: dotnet-app
+      name: dotnet-app-container
       image: bhavinibatra/nagp-devops-demo:latest
      ports:
       name: http
@@ -25,13 +23,12 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
- name: dotnet-app
+ name: dotnet-app-service
 spec:
  type: NodePort
  selector:
-  app: dotnet-app
+  app: dotnet-app-pod
  ports:
- - protocol: TCP
+ - port: 8080
    nodePort: 30158
-   port: 80
    targetPort: 80 
